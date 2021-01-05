@@ -1,0 +1,5 @@
+C# for Visual Studio Code (powered by OmniSharp).
+C# Extensions(JosKreativ)
+Material Icon Theme
+NuGet Gallery
+SQLite
