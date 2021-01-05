@@ -1,0 +1,36 @@
+engines:
+node: >= 10.13.0
+npm : >= 6.11.0
+yarn : >= 1.13 .
+
+
+cmd install angular
+
+npm install -g @angular/cli
+
+
+add angular
+
+ng new client
+
+Note: Angular 11 will ask you if you want to use "Strict Mode". Please select "NO" to this
+
+Would you like to add Angular routing? Yes
+
+select CSS
+
+how excute angular ?
+
+cd to client 
+
+if you got this problem
+因為這個系統上已停用指令碼執行，所以無法載入 C:\Users\user\AppData\Roaming\npm\ng.ps1 檔案"
+use admin to cmd press  "Set-ExecutionPolicy RemoteSigned"
+
+ng serve
+
+checking sucess
+
+http://localhost:4200/
+
+1:41
