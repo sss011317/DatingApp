@@ -3,3 +3,7 @@ C# Extensions(JosKreativ)
 Material Icon Theme
 NuGet Gallery
 SQLite
+
+angular language service : tell you about where does your angular component come from and type
+Angular Snippets (Version 11)
+Bracket Pair Colorizer 2 : make your bracket colorful

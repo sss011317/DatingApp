@@ -27,7 +27,12 @@ if you got this problem
 因為這個系統上已停用指令碼執行，所以無法載入 C:\Users\user\AppData\Roaming\npm\ng.ps1 檔案"
 use admin to cmd press  "Set-ExecutionPolicy RemoteSigned"
 
-ng serve
+ng serve 
+if you got this problem
+"An unhandled exception occurred: Cannot find module '@angular/compiler-cli'"
+try this:
+1.npm uninstall angular-cli
+2.npm install @angular/cli --save-dev
 
 checking sucess
 
