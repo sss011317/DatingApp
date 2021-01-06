@@ -38,4 +38,12 @@ checking sucess
 
 http://localhost:4200/
 
-1:41
+
+initital ngx-bootstrap
+
+ng add ngx-bootstrap 
+
+install awesome icon
+
+npm install font-awesome
+
